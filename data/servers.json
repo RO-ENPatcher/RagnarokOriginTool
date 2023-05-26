@@ -1,0 +1,65 @@
+[
+
+    {
+
+        "server": "Korea",
+
+        "code": "890358105.robytes",
+
+        "package": [
+
+            "com.gravity.ragnarokorigin.aos"
+
+        ]
+
+    },
+
+    {
+
+        "server": "Japan",
+
+        "code": "3079019200.robytes",
+
+        "package": [
+
+            "jp.gungho.rao"
+
+        ]
+
+    },
+
+    {
+
+        "server": "Taiwan",
+
+        "code": "3385116963.robytes",
+
+        "package": [
+
+            "com.gravity.roo.tw",
+
+            "com.gravity.roo.tw.mycard"
+
+        ]
+
+    },
+
+    {
+
+        "server": "Global",
+
+        "code": "1650493539.robytes",
+
+        "package": [
+
+            "com.gravity.roo.sea",
+
+            "com.gravity.roo.sea.op",
+
+            "com.gravity.roo.sea.official"
+
+        ]
+
+    }
+
+]
