@@ -2,6 +2,7 @@
 
     "debug": true,
 
-    "testing": true
+    "testing": false
+
 
 }
