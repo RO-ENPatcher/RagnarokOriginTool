@@ -1,8 +1,12 @@
 {
 
-    "debug": true,
+    "debug": false,
 
-    "testing": true
+    "testing": true,
+    
+    "version":51,
 
-
+    "temporary":false,
+    
+    "message":"Temporarily not available"
 }
