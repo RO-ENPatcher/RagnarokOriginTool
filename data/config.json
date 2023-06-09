@@ -4,9 +4,11 @@
 
     "testing": true,
     
-    "version":51,
+    "version":54,
 
     "temporary":false,
+    
+    "apk":true,
     
     "message":"Temporarily not available"
 }
