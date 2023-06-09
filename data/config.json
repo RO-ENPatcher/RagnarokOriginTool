@@ -2,7 +2,7 @@
 
     "debug": false,
 
-    "testing": true,
+    "testing": false,
     
     "version":54,
 
