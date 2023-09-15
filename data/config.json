@@ -6,9 +6,9 @@
     
     "version":57,
 
-    "temporary":true,
+    "temporary":false,
     
-    "apk":true,
+    "apk":false,
     
     "message":"Preparing for new update"
 }
