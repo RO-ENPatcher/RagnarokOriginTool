@@ -6,9 +6,9 @@
     
     "version":57,
 
-    "temporary":false,
+    "temporary":true,
     
     "apk":false,
     
-    "message":"Preparing for new update"
+    "message":"Unable to fetch translation. Please try again later."
 }
